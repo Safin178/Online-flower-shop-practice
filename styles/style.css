@@ -7,7 +7,7 @@
 /* header starts */
 
 header {
-    /* max-width: 1920px; */
+   width: 1920px;
     height: 850px;
     flex-shrink: 0;
     background: rgba(229, 84, 115, 0.10);
@@ -79,7 +79,7 @@ header img {
 /* featured-flower-section */
 
 .featured-flower {
-    /* max-width: 1920px; */
+    max-width: 1920px;
     height: 1539px;
     display: flex;
     flex-direction: column;
