@@ -4,3 +4,25 @@
     max-width: 1920px;
 }
 
+.insta-section{
+   
+    max-width: 1920px;
+    height: 760px;
+    display: flex;
+    flex-direction: column;
+}
+.flowers-card-insta{
+    max-width: 1440px;
+    gap: 30px;
+     margin-left: 240px;
+   /* margin-right: 240; */
+    margin-top: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.card-img-insta{
+    width: 342px;
+    height: 396px;
+    object-fit: contain;
+}
